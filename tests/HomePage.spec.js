@@ -6,6 +6,10 @@ test('Home Page',async (page)=>{
 
     let title=page.title();
     console.log("Title is: "+ title);
-    
-m
 })
+
+{
+let a;
+
+console.log(a)
+}
